@@ -2,11 +2,13 @@
 
 # YouLoader
 
+
 [![Python](https://img.shields.io/badge/python-3.7+-green.svg)](https://www.python.org/)
 [![yt-dlp](https://img.shields.io/badge/yt--dlp-2024.12.13-red.svg)](https://github.com/yt-dlp/yt-dlp)
 [![colorama](https://img.shields.io/badge/colorama-0.4.6-yellow.svg)](https://github.com/tartley/colorama)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
 [![License](https://img.shields.io/badge/license-Open%20Source-blue.svg)](LICENSE)
+
 
 Простая консольная утилита для скачивания видео с YouTube.
 
